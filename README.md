@@ -1,4 +1,4 @@
-📘 CIFAR-10 Image Classification using TensorFlow/Keras
+#📘 CIFAR-10 Image Classification using TensorFlow/Keras
 
 A complete deep-learning pipeline built to classify images from the CIFAR-10 dataset, featuring data preprocessing, CNN model creation, training with callbacks, performance visualization, and inference.
 This project serves as a clean, reproducible template for image classification tasks.
